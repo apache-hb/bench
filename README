@@ -1,0 +1,8 @@
+# requires
+* hyperfine (cargo install hyperfine)
+* clang (sudo apt install clang++)
+* gcc (sudo apt install g++)
+
+```
+make bench
+```
